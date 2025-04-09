@@ -13,9 +13,6 @@ This repository is dedicated to **research and development** in the field of **e
 - Conduct **statistical & computational analysis** for improved accuracy.  
 - Develop a structured approach for **progress tracking & validation**.  
 
-## 🔐 Repository Status  
-🔹 This is a **private repository** dedicated to ongoing research.  
-🔹 Access is restricted, and findings are **confidential** until further notice.  
 
 ---
 📌 **For inquiries or collaborations, please contact me directly.**  
