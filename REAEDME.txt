@@ -1,0 +1,5 @@
+Open the entire folder in vs code
+Run spectrum1.py
+output will be saved in path to output images
+
+While running the spectrum2.py make sure the output folder is empty otherwise both will overlap.
